@@ -1,1 +1,1 @@
-# NineChronicesPoolMiner
+# NineChroniclesPoolMiner
